@@ -33,3 +33,23 @@ _CashbackAmount_: Amount of cashback received by the customer.
 _HourSpendOnApp_: Number of hours spent on the app.
 
 _Churn_: Whether the customer has churned (1) or not (0).
+
+**Key Insights**
+
+_Complaints_: Customers who lodge complaints are more likely to churn.
+
+_Tenure_: Longer tenure is associated with lower churn rates.
+
+_Login Device_: Customers using computers to log in have higher churn rates compared to mobile phone users.
+
+_Payment Mode_: Customers preferring Cash on Delivery have higher churn rates.
+
+_City Tier_: Customers from higher city tiers have lower churn rates.
+
+_Satisfaction Score_: Higher satisfaction scores do not necessarily correlate with lower churn.
+
+_Last Order_: Higher churn rates are observed shortly after the last order.
+
+_Order Category_: Mobile Phone category shows the highest churn rate.
+
+_Cashback_: Higher cashback amounts generally correlate with lower churn rates.
